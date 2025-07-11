@@ -1,0 +1,4 @@
+{
+    "command": "./gradlew installDebug",
+    "working_directory": "/tmp/kavia/workspace/code-generation/storyshare-mobile-2a120984/android_frontend"
+}
